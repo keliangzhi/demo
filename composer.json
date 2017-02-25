@@ -1,0 +1,14 @@
+{
+    "name": "keliangzhi/demo",
+    "description": "test pro",
+    "type": "pro",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "keliangzhi",
+            "email": "5717395@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
